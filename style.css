@@ -1,1 +1,114 @@
+.syket{
+    width: 1100px;
+    background: url("images/header-bg.png") ;
+    background: no-repeat;
+    
+    background-image: cover;
+    margin-bottom: 100px;
+    display: block;
+    overflow: hidden;
+}
+p{
+    color: dimgrey;
+}
+.name{
+    width: 500px;
+    float: left;
+    padding: 40px;
+    
+}
+.name h1{
+    font-size: 35px;
+    color: indianred;
 
+}
+.name h2{
+    font-size: 25px;
+    color: black;
+
+}
+.name-image{
+    width: 500px;
+    float: right;
+}
+.name-image img{
+    width: 100%;
+}
+.button{
+    text-decoration: none;
+background-image: linear-gradient(45deg,lightsalmon,tomato );
+padding: 10px 20px;
+border-radius: 10px;
+color: white;
+font-weight: 700;
+
+}
+.biography{
+    width: 1100px;
+    background: url("images/biography-bg.png");
+    background: no-repeat;
+    display: block;
+    overflow: hidden;   
+}  
+.bio-image{
+    width: 500px;
+    float: left;
+}
+.bio-image img{
+    width: 100%;
+}
+.bio-info{
+    padding: 100px 15px 15px 15px;
+    
+    float: right;
+    width: 500px;
+}
+.bio-info h2{
+    font-size: 30px;
+    color: rgb(236, 86, 86);
+}
+.dbutton{
+text-decoration: none;
+background-image: linear-gradient(45deg,lightsalmon,tomato );
+padding: 10px 20px;
+border-radius: 10px;
+color: white;
+font-weight: 700;
+
+}
+.work{
+    font-size: 30px;
+    text-align: center;
+}
+.my_work{
+    padding-top: 50px;
+    background: url("images/work-1.png");
+    background: no-repeat;
+    
+    
+}
+.work img{
+    width: 300px;
+    padding: 10px;
+    box-shadow:10px 10px 40px dimgrey ;
+}
+.footo{
+    padding: 150px;
+    text-align: center;
+}
+.email{
+    background-color: rgb(236, 86, 86);
+    width: 600px;
+    height: 150px;
+    margin: 0 auto;
+    border-radius: 20px;
+
+}
+.email p{
+    padding-top: 40px;
+    text-align: center;
+    color: white;
+}
+.email h3{
+    text-align: center;
+}
